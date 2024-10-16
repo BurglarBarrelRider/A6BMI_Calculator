@@ -1,5 +1,7 @@
 # A6BMI_Calculator
 
+[A6BMI_Screenshots.pdf](https://github.com/user-attachments/files/17400956/A6BMI_Screenshots.pdf)
+
 Objective: Create a BMI Calculator application using Java and JavaFX that allows users to calculate their Body Mass Index (BMI) and provides information on their BMI status according to the Department of Health and Human Services/National Institutes of Health guidelines.
 
 Instructions:
@@ -62,3 +64,5 @@ Error handling and data validation.
 Proper usage of Java OOP principles.
 Code organization and documentation.
 Correct implementation of the menu.
+
+
